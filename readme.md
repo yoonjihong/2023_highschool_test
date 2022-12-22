@@ -28,3 +28,4 @@ https://www.surfit.io/channel/%EC%9B%90%ED%8B%B0%EB%93%9C
 [HTML 핵심내용 간단 정리](https://worlf.tistory.com/m/50)   
 [CSS 기초 내용 정리](https://velog.io/@ljinsk3/CSS-기초-내용-정리)   
 [CSS에 구글 폰트 적용하기](https://velog.io/@jehjong/CSS%EC%97%90-%ED%8F%B0%ED%8A%B8-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-%EC%9B%B9%ED%8F%B0%ED%8A%B8-%ED%8F%B0%ED%8A%B8-%ED%8C%8C%EC%9D%BC)
+ 

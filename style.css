@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #000;
+  color: white;
+  padding: 40px;
+}
+
+.bar {
+  width: 40px;
+  height: 2px;
+  background: white;
+  margin: 30px 0 20px;
+}
+
+h1 {
+  line-height: 1.1;
+  font-family: 'Do Hyeon';
+}
+
+h1 span {
+  color: royalblue;
+}
+
+.text {
+  font-size: 12px;
+  line-height: 1.2;
+}
+
+.text > div {
+  margin-bottom: 16px;
+}

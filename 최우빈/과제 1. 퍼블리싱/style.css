@@ -1,0 +1,30 @@
+* {
+    margin: px;
+    padding: 10px;
+}
+
+h1 span{
+    color: green;
+}
+
+body {
+    background: black;
+    color: white;
+}
+
+.text {
+    font-family: 'Do Hyeon';
+    margin: 0px;
+    font-size: 20px;
+}
+
+.bar {
+    margin: 0px;
+    color: white;
+    padding: 0px;
+}
+
+
+
+
+

@@ -1,13 +1,13 @@
-<<<<<<< HEAD
 * {
   margin: 0;
   padding: 0;
 }
 
 body {
-  background: #000;
+  background: black;
   color: white;
-  padding: 40px;
+  margin: 20px;
+  padding: 20px;
 }
 
 .bar {
@@ -18,21 +18,23 @@ body {
 }
 
 h1 {
-  line-height: 1.1;
+  font-size: 1.2;
   font-family: 'Do Hyeon';
+  padding: 2px;
 }
 
 h1 span {
-  color: royalblue;
+  color: mediumspringgreen;
 }
 
-.text {
-  font-size: 12px;
-  line-height: 1.2;
+text {
+  font-size: 1.2;
+  margin: 10px;
+  padding: 10px;
 }
 
-.text > div {
-  margin-bottom: 16px;
+div > text {
+  font-size: 16px;
+  margin: 5px;
+  padding: 5px;
 }
-=======
->>>>>>> 222d28f398fddae76a35ecdaed9c6e28faa33e16

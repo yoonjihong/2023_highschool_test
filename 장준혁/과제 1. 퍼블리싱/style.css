@@ -1,0 +1,25 @@
+body {
+    background: #000;
+    color: white; 
+}
+
+
+.bar {
+    width: 40px;
+    height: 2px;
+    margin: 20px 0 30px;
+    background: white;
+}
+
+h1 {
+    line-height: 1.1;
+    font-family: 'Do Hyeon';
+}
+
+h1 span {
+    color: lightgreen;
+}
+
+.text {
+    line-height: 1.2;
+}
